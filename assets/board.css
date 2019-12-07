@@ -1,0 +1,22 @@
+.container{
+    display: grid;
+    background-color: #000030;
+    position: relative;
+    left: 10%;
+    border-radius: 4px;
+    max-width: 80%;
+}
+.header {
+    background-color: darkblue;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+.lateral{
+    text-align: center;
+    color: whitesmoke;
+    width: 20%;
+    position: absolute;
+    right: 80%;
+
+}
